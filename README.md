@@ -19,7 +19,7 @@ El objetivo del curso es crear una aplicación muy parecida a Instagram, llamada
 - React Apollo
 
 5. Enrutado de la SPA:
-- Reach Router
+- React Router
 
 6. Para las buenas prácticas:
 - Lighthouse
@@ -58,3 +58,11 @@ El objetivo del curso es crear una aplicación muy parecida a Instagram, llamada
 7. Añadir nuevo script para werpack serve en package.json
 
         "dev": "webpack serve"
+
+8. Instalar React 
+
+        npm i react react-dom
+
+9. Instalar Babel
+
+        npm i @babel/core @babel/preset-env babel-loader @babel/preset-react --save-dev
