@@ -64,5 +64,8 @@ El objetivo del curso es crear una aplicación muy parecida a Instagram, llamada
         npm i react react-dom
 
 9. Instalar Babel
-
         npm i @babel/core @babel/preset-env babel-loader @babel/preset-react --save-dev
+
+10. Instalar linter: standar
+
+        npm i standard --save-dev
