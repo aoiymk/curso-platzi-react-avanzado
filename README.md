@@ -33,7 +33,28 @@ El objetivo del curso es crear una aplicación muy parecida a Instagram, llamada
 
 ## Configuración Inicial del proyecto
 
-### Estructura base
-Clonar [este repositorio](https://github.com/midudev/curso-platzi-react-avanzado) que tiene todo el material inicial
+1. Clonar [este repositorio](https://github.com/midudev/curso-platzi-react-avanzado) que tiene todo el material inicial
 
-###
+2. Iniciar proyecto
+
+       npm init -y
+
+3. Instalar Webpack
+
+        npm i webpack wepack-cli --save-dev.
+
+4. Agregar archivo src/index.js con un log base
+
+5. Agregar el webpack.config.js
+
+6. Instalar html-webpack-pluging 
+
+        npm i html-webpack-plugin --save-dev
+
+6. Instalar webpack-dev-server
+
+        npm i webpack-dev-server --save-dev
+
+7. Añadir nuevo script para werpack serve en package.json
+
+        "dev": "webpack serve"

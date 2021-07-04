@@ -1,0 +1,29 @@
+{
+  "name": "curso-platzi-react-avanzado",
+  "version": "1.0.0",
+  "description": "El objetivo del curso es crear una aplicación muy parecida a Instagram, llamada petgram. Tendremos nuestras rutas, gestión de usuarios y likes.",
+  "main": "webpack.config.js",
+  "dependencies": {
+    "webpack-dev-server": "^3.11.2"
+  },
+  "devDependencies": {
+    "html-webpack-plugin": "^5.3.2",
+    "webpack": "^5.42.0",
+    "wepack-cli": "0.0.1-security"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "webpack serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aoiymk/curso-platzi-react-avanzado.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aoiymk/curso-platzi-react-avanzado/issues"
+  },
+  "homepage": "https://github.com/aoiymk/curso-platzi-react-avanzado#readme"
+}
