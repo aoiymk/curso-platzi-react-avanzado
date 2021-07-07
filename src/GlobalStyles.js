@@ -15,6 +15,24 @@ export const GlobalStyle = createGlobalStyle`
     width: 100%;
   }
 
+  *, *::before, *::after {
+    box-sizing: inherit;
+  }
+        
+  ul, li, h1, h2, h3, p, button {
+    margin: 0;
+  }
+
+  ul {
+    list-style: none;
+  }
+
+  button {
+    background: transparent;
+    border: 0;
+    outline: 0;
+  }
+
   #app {
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.05);
     overflow-x: hidden;
