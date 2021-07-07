@@ -1,6 +1,5 @@
 import styled from 'styled-components'
 
-
 export const ImgWrapper = styled.div`
   border-radius:10px;
   display: block;
