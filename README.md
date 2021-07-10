@@ -69,3 +69,13 @@ El objetivo del curso es crear una aplicación muy parecida a Instagram, llamada
 10. Instalar linter: standar
 
         npm i standard --save-dev
+
+## Aspectos interesantes.
+
+### Creación del logo
+
+1. Mediante el uso de https://maketext.io/ se puede ingresar texto y se generan multiples alternativas cool, las cuales pueden ser descargadas en formato svg.
+
+2. Usando https://jakearchibald.github.io/svgomg/ se puede ingresar un svg y este es optimizado c:
+
+3. Finally, en https://react-svgr.com/playground/ se puede convertir el archivo .svg en un componente de react de forma automática
